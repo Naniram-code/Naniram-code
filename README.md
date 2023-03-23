@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naniram-code" alt="naniram-code" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium WebDriver QA automation**
+- 🌱 I’m currently learning **Selenium WebDriver with PYTHON QA automation**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
-
-- 🤝 I’m looking for help with **API Testing, Selenium, Automation Frameworks**
 
 - 💬 Ask me about **Selenium, SDET,JAVA, POSTMAN, Rest Assured,**
 
