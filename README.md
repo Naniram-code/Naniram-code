@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
-- 💬 Ask me about **Selenium, SDET,JAVA, POSTMAN, Rest Assured,**
+- 💬 Ask me about **SELENIUM, SDET,JAVA, POSTMAN, Rest Assured,Git and Github**
 
 - 📫 How to reach me **NaniramBhujel@gmail.com**
 
