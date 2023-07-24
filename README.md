@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nani Ram Bhujel</h1>
-<h3 align="center">Experienced QA Automation professional</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naniram-code&label=Profile%20views&color=0e75b6&style=flat" alt="naniram-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naniram-code" alt="naniram-code" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium WebDriver with PYTHON QA automation**
+- 🌱 I’m currently learning ****
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+- 👯 I’m looking to collaborate on ****
 
-- 💬 Ask me about **SELENIUM, SDET,JAVA, POSTMAN, Rest Assured,Git and Github**
+- 💬 Ask me about **Java, JavaScript, Unix-Shell scripting, HTML, JSP, CSS, SQL, PL/SQL ,Git and Github**
 
-- 📫 How to reach me **NaniramBhujel@gmail.com**
+- 📫 How to reach me **NaniramBhujel03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
