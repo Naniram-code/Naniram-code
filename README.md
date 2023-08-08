@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on ****
 
-- 💬 Ask me about **Java, JavaScript, Unix-Shell scripting, HTML, JSP, CSS, SQL, PL/SQL ,Git and Github**
+- 💬 Ask me about 
 
 - 📫 How to reach me **NaniramBhujel03@gmail.com**
 
