@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nani Ram Bhujel</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center"> Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naniram-code&label=Profile%20views&color=0e75b6&style=flat" alt="naniram-code" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about 
 
-- 📫 How to reach me **NaniramBhujel03@gmail.com**
+- 📫 How to reach me **NaniramBhujel@gmail.com**
 
       
 <h3 align="left">Connect with me:</h3>
